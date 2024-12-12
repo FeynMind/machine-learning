@@ -25,12 +25,12 @@ FeynMind is a mobile application designed to enhance science education for senio
 Scientific Textbooks Dataset: High school-level science materials for creating a knowledge base and question generation.
 
 ## Model Architecture
-# Machine Learning
+### Machine Learning
 - Speech Recognition: Pre-trained speech-to-text models fine-tuned with high school science terminology.
 - Feedback Mechanism: Natural language processing (NLP) techniques to classify and analyze user responses.
 - Question Generation: Sequence-to-sequence (Seq2Seq) models to generate relevant questions based on user input.
 
-# Cloud Services
+### Cloud Services
 - Serverless Functions: Handle voice processing and data delivery.
 - API Integration: Facilitates communication between the mobile app and backend services.
 - Logging and Monitoring: Ensures performance and cost management.
@@ -76,4 +76,4 @@ We welcome contributions to the Acnetify project. To contribute, please follow t
 - Feynman Technique: For inspiring the teaching methodology.
 - Open Source Libraries: Used in speech recognition, NLP, and Android development.
 
-# FeynMind is a collaborative effort to revolutionize science education and empower students with effective learning tools. We’re excited to see how this app will impact students’ academic journeys!
+## FeynMind is a collaborative effort to revolutionize science education and empower students with effective learning tools. We’re excited to see how this app will impact students’ academic journeys!
