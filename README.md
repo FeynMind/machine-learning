@@ -76,4 +76,4 @@ We welcome contributions to the Acnetify project. To contribute, please follow t
 - Feynman Technique: For inspiring the teaching methodology.
 - Open Source Libraries: Used in speech recognition, NLP, and Android development.
 
-## FeynMind is a collaborative effort to revolutionize science education and empower students with effective learning tools. We’re excited to see how this app will impact students’ academic journeys!
+### FeynMind is a collaborative effort to revolutionize science education and empower students with effective learning tools. We’re excited to see how this app will impact students’ academic journeys!
